@@ -1,4 +1,6 @@
-# CutIt---Windows-App
+# CutIt
+Windows Application
+
 Analog of snipping tool
 
 PL:C#
